@@ -1,16 +1,51 @@
-### Hi there 👋
+# Hi, i'm favour 👋.
 
-<!--
-**f1vour/f1vour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="![tech](https://github.com/f1vour/f1vour/assets/126351202/18935801-26ad-4f00-a5cc-f08c568eee53)
+">
+ <source media="(prefers-color-scheme: light)" srcset="![tech girl](https://github.com/f1vour/f1vour/assets/126351202/f151f5c7-8b1d-4572-ba7e-8e9d7137b648)
+">
+ <img alt="Anime tech girl" src="![anime tech girl](https://github.com/f1vour/f1vour/assets/126351202/41340504-0ba1-408a-a20e-91c2c1f2a23a)
+">
+</picture>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✨About me
+
+  .Web developer
+  
+  .sports(running)
+  
+  .Arts
+
+  .student
+
+
+ # 🔭I’m currently working:
+ 
+   .some small web app projects.
+  
+# 🌱 I’m currently learning
+
+<details>
+<summary>My top Languages</summary>
+
+  | Rank | Languages     |
+  |-----:|---------------|
+  |     1|  HTML & Css   |
+  |     2|  JavaScript   |
+  |     3|  C#           |
+  |     4|  SQL          |
+
+</details>
+
+#  📫 How to reach me:
+  
+  . favourchukwemeka001@gmail.com
+
+# ⚡ Fun fact:
+  
+  . I like creativity(drawing) and fashion designs
+
+  . I like learning new things(personal growth)
+  
