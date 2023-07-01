@@ -1,9 +1,5 @@
 # Hi, i'm favour 👋.
 
-<p align="center">
-  <img width="800" src="![anime-tech- girl](https://github.com/f1vour/f1vour/assets/126351202/4ddff7af-cb33-4528-88ef-30e023dd2c8a)">
-</p>
-
 ### ✨About me
 
   .Web developer
