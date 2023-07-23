@@ -2,7 +2,7 @@
 
 ### ✨About me
 
-  .inspiring Web developer
+  .Aspiring Web developer
   
   .sports(running)
   
