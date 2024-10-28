@@ -2,7 +2,7 @@
 
 ### ✨About me
 
-  .Aspiring Web developer
+  .Aspiring Data Scientist
   
   .sports(running)
   
@@ -13,7 +13,7 @@
 
  ### 🔭I’m currently working:
  
-   .some small web app projects.
+   .some small web app and data projects.
   
 ### 🌱 I’m currently learning
 
@@ -26,6 +26,8 @@
   |     2|  JavaScript   |
   |     3|  C#           |
   |     4|  SQL          |
+  |     5| Python        |
+  |     6| Excel         |
 
 </details>
 
